@@ -33,7 +33,7 @@ A simple conversational chatbot built with Hugging Face's `DialoGPT-medium` mode
 
 ## Author
 
-B S Lakshmi Prerana
+**B S Lakshmi Prerana**
 B.Tech AIML, UVCE (2024–2028)
 
 ## License
